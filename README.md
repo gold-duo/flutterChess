@@ -12,6 +12,8 @@ A chess project.
 - 换肤。搭配两套皮肤
 - 象棋难易等级
 
-效果演示
+## [效果演示](https://github.com/gold-duo/flutterChess/raw/main/chess_video.mp4)
 
-![img](chess_video.mp4)
+![](https://github.com/gold-duo/flutterChess/raw/main/chess_video.mp4)
+
+<iframe width="100%" height="400" src="https://github.com/gold-duo/flutterChess/raw/main/chess_video.mp4" frameborder="0" allowfullscreen></iframe>
