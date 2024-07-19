@@ -1,6 +1,5 @@
 import 'package:chess/page/chess_page.dart';
 import 'package:chess/page/setting_page.dart';
-import 'package:chess/page/web_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
